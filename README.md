@@ -1,5 +1,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxiaGRlazRkdjd6enBieHZzemMwODA5cWl1dm9zZjMwdHJnZWY5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3s2JBo0CNoaqnJLTg/giphy.webp" alt="moving octo">
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME)
+
+
 
 <!--
 **BenRaschkeTR/BenRaschkeTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
