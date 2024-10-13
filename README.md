@@ -1,4 +1,4 @@
-img src="[https://path/to/your/gif.gif](https://giphy.com/gifs/S3s2JBo0CNoaqnJLTg)" alt="moving octo"
+img src="https://giphy.com/gifs/S3s2JBo0CNoaqnJLTg" alt="moving octo"
 
 
 <!--
