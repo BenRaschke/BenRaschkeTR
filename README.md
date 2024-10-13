@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://giphy.com/gifs/S3s2JBo0CNoaqnJLTg" alt="Your GIF">
 
 <!--
 **BenRaschkeTR/BenRaschkeTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
